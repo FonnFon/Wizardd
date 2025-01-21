@@ -1,6 +1,5 @@
 var wizard, wizardWalk;
 var fundoImg;
-var wizardVelocityX;
 
 
 function preload() {
